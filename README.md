@@ -1,2 +1,3 @@
 # EDA
-Data visualization, Data cleaning
+Data visualization, Data cleaning, Machine Learning Models 
+
